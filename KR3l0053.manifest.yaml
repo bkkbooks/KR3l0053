@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3l0053_000.yaml, hash: 'sha256:d9a07264b49c2f52d51dbe16eafd46e41869154763cd664bdf80d9dd53f6c1db'}
   - {seq: 1, filename: KR3l0053_001.yaml, hash: 'sha256:d4d9ec36aad7fc4f830705419aa8291568af5a5abd4503d5018301389f73d590'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3l0053_000.markers.yaml, hash: 'sha256:269bfb3723719767ce2c36c6c40babb7d53aab7438ea2734a6259df73abdfe95'}
-  - {seq: 1, role: markers, filename: assets/KR3l0053_001.markers.yaml, hash: 'sha256:036a75567763d46d81b13c135697132571f80870fd91d2b5bff5a0483aeeb379'}
+  - {seq: 0, role: markers, filename: assets/KR3l0053_000.markers.yaml, hash: 'sha256:89e80c3d11d1407513c7f9b7f76cceea9eab8a26e652262731595865476cd145'}
+  - {seq: 1, role: markers, filename: assets/KR3l0053_001.markers.yaml, hash: 'sha256:94e401901956748f05c14ff166fdc0b7a827c24504778a180e7e16678c15565d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 道山清話
   type: section
   level: 1
-hash: sha256:e9f8866a2d994b84e49a8b496a413cdd33ce3fa3f3db39386c51945da4738484
+hash: sha256:63be3a9b7656fcad3752096cbd2aa584da3d78d644b630f96c10cb5f51b2a666
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
